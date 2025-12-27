@@ -9,9 +9,9 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 BTC
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,linux,git,github,html,css,telegram,docker&theme=dark" />
+  <img src="https://cdn.pixabay.com/animation/2024/02/27/20/17/20-17-04-960_512.gif" />
 </p>
 
 ---
@@ -28,9 +28,9 @@
 
 ---
 
-### 🏆 GitHub Trophy
+### 🏆 Look at Me
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=doreneway1&theme=matrix&row=1&column=6" />
+  <img src="https://cdn.pixabay.com/animation/2025/01/31/15/41/15-41-51-373_512.gif" />
 </p>
 
 ---
@@ -53,4 +53,4 @@
 </p>
 
 <!-- WAVE BOTTOM -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=DORENEWAY&fontAlignY=80&textBg=false&section=footer&reversal=true&rotate=0&animation=twinkling&desc=UNIVERSE&fontColor=FFFEF2&descSize=33&descAlign=50&descAlignY=59&fontAlign=50"/>
