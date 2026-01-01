@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=EB7878&text=WELCOME%20HOME&fontAlignY=30&animation=twinkling&desc=DORENEWAY&section=header&fontAlign=50&descAlign=50&descAlignY=90&fontColor=825656&fontSize=50" />
 
 <p align="center">
-  <img width="1200" src="https://github.com/doreneway1/doreneway1/blob/main/bnr.png" />
+  <img width="500" src="https://github.com/doreneway1/doreneway1/blob/main/bnr.png" />
 </p>
 
 <!-- TERMINAL LOGIN -->
@@ -14,14 +14,19 @@
 
 <!-- GLITCH DIVIDER -->
 <p align="center">
-  <img width="900" src="https://user-images.githubusercontent.com/74038190/216656951-24b68b8c-0f3d-4d9c-9d64-3b2b4a4fb24c.gif" />
+  <img width="500" src="https://user-images.githubusercontent.com/74038190/216656951-24b68b8c-0f3d-4d9c-9d64-3b2b4a4fb24c.gif" />
 </p>
 
----
+<p align="center"><img width="100%" src="https://github.com/doreneway1/doreneway1/blob/main/1.png">
 
-<!-- MATRIX RAIN --> <p align="center"> <img width="900" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" /> </p>
-<p align="center"> 🧬 SYSTEM CORE </p>
-<p align="center"> <img src="https://img.shields.io/badge/USER-root-000000?style=for-the-badge&logo=linux&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/SHELL-bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/MODE-GOD-000000?style=for-the-badge&logo=protonvpn&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/dorene-cloudflare-orange?logo=cloudflare" /> </p>
+<p align="center">
+  <img src="https://github.com/doreneway1/doreneway1/blob/main/animated.gif" alt="Tech Stack" />
+</p>
+
+
+<!-- MATRIX RAIN --> <p align="center"> <img width="500" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" /> </p>
+<p align="center"> <img width="500" src="https://github.com/doreneway1/doreneway1/blob/main/giff.gif" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/USER-root-000000?style=for-the-badge&logo=linux&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/SHELL-bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/MODE-GOD-000000?style=for-the-badge&logo=protonvpn&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/DORENE-CLOUDFLARE-000000?style=for-the-badge&logo=cloudflare&logoColor=00FF9D" /> </p>
 
 ```javascript
 const doreneway = {
@@ -37,6 +42,8 @@ const doreneway = {
  challenge: "I am doing the #100DaysOfCode challenge focused on shell and python"
 }
 ```
+<p align="center"><img width="100%" src="https://github.com/doreneway1/doreneway1/blob/main/2.png">
+  
 ```javascript
                                              MY SONG ▶︎ •၊၊||၊|။||||||||• 03:10 MY PLAYLIST
 ```
