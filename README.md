@@ -1,7 +1,7 @@
-<p align="center"><img width="100%" src="https://img.freepik.com/foto-gratis/seni-digital-pegunungan-yang-indah_23-2151123644.jpg?semt=ais_hybrid&w=740&q=80">
+<p align="center"><img width="100%" src="https://github.com/doreneway1/doreneway1/blob/main/design.png">
 
 <!-- BOOT SCREEN -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=EB7878&text=WELCOME%20HOME&fontAlignY=55&animation=twinkling&desc=DORENEWAY&section=footer&fontAlign=50&descAlign=50&descAlignY=70&fontColor=825656&fontSize=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=EB7878&text=WELCOME%20HOME&fontAlignY=30&animation=twinkling&desc=DORENEWAY&section=header&fontAlign=50&descAlign=50&descAlignY=90&fontColor=825656&fontSize=50" />
 
 <p align="center">
   <img width="1200" src="https://github.com/doreneway1/doreneway1/blob/main/bnr.png" />
@@ -20,8 +20,8 @@
 ---
 
 <!-- MATRIX RAIN --> <p align="center"> <img width="900" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" /> </p>
-🧬 SYSTEM CORE
-<p align="center"> <img src="https://img.shields.io/badge/USER-root-000000?style=for-the-badge&logo=linux&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/SHELL-bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/MODE-GOD-000000?style=for-the-badge&logo=protonvpn&logoColor=00FF9D" /> </p>
+<p align="center"> 🧬 SYSTEM CORE </p>
+<p align="center"> <img src="https://img.shields.io/badge/USER-root-000000?style=for-the-badge&logo=linux&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/SHELL-bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/MODE-GOD-000000?style=for-the-badge&logo=protonvpn&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/dorene-cloudflare-orange?logo=cloudflare" /> </p>
 
 ```javascript
 const doreneway = {
@@ -37,14 +37,23 @@ const doreneway = {
  challenge: "I am doing the #100DaysOfCode challenge focused on shell and python"
 }
 ```
-
+```javascript
+                                             MY SONG ▶︎ •၊၊||၊|။||||||||• 03:10 MY PLAYLIST
+```
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/track/0dKPvg5zg0c8HjhYNUpdCh)
 </div>
 
-<!-- SCANLINES --> <p align="center"> <img width="900" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" /> </p>
+<p align="center"> <img width="900" src="https://mesibo.com/assets/images/languages/all.png" /> </p>
 🛠️ LOADED MODULES
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,bash,js,nodejs,linux,git,github,docker,vscode&theme=dark" /> </p> <!-- CYBER BANNER --> <p align="center"> <img width="900" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,bash,js,nodejs,linux,git,github,docker,vscode&theme=dark" /> </p> <!-- CYBER BANNER --> <p align="center"> <img width="900" src="https://shop.puri.sm/wp-content/uploads/2017/08/technology-stack-logos-2017-08-24.png" /> </p>
+
+<p align="center"> <img width="900" src="https://astek.id/assets/images/it_solution_2.png" /> </p>
+
+<p align="center"> <img width="900" src="https://astek.id/assets/images/technology.png" /> </p>
+
+<p align="center"> <img width="900" src="https://images.squarespace-cdn.com/content/v1/5919122ee3df28cc11ff01d0/d97801fb-62d0-471c-aa02-570f07d82774/updatedlogoblock4.jpg?format=2500w" /> </p>
+
 📡 LIVE SIGNALS
 <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=doreneway1&show_icons=true&theme=vision-friendly-dark&hide_border=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=doreneway1&theme=vision-friendly-dark&hide_border=true" /> </p> <p align="center"> <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doreneway1&layout=compact&theme=vision-friendly-dark&hide_border=true" /> </p> <!-- ACTIVITY GRAPH --> <p align="center"> <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=doreneway1&bg_color=000000&color=00FF9D&line=00FF9D&point=FFFFFF&area=true&hide_border=true" /> </p> <!-- SNAKE --> <p align="center"> <img width="900" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p> <!-- FINAL TERMINAL -->
 
